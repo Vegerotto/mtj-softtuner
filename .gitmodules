@@ -1,5 +1,5 @@
 [submodule "mtj_softtuner/kobold"]
 	path = mtj_softtuner/kobold
-	url = https://github.com/henk717/KoboldAI-Client
+	url = https://github.com/Vegerotto/KoboldAI
 	branch = united
 	ignore = all
